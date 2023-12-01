@@ -75,7 +75,7 @@ Program to verify the truth table in quartus for the basic logic gates using Ver
 Developed by: S LALIT CHANDRAN
 RegisterNumber: 23004048
 */
-Logic symbol & Truthtable
+Logic symbol & Truthtable:
 ![image](https://github.com/lalitchandran/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/137707725/4b2a7b7e-175e-4f6c-a6bf-b011505eda9a)
 
 RTL realization:
