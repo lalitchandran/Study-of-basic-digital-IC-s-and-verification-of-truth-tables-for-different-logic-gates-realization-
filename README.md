@@ -63,7 +63,8 @@ Program:
 
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: S LALIT CHANDRAN
-RegisterNumber: 23004048*/
+RegisterNumber: 23004048
+*/
 module Logicgates(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7;
@@ -76,6 +77,7 @@ nor(y6,a,b);
 xnor(y7,a,b);
 endmodule
 */
+
 Logic symbol & Truthtable:
 
 ![image](https://github.com/lalitchandran/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/137707725/4b2a7b7e-175e-4f6c-a6bf-b011505eda9a)
