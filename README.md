@@ -64,6 +64,7 @@ Program:
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: S LALIT CHANDRAN
 RegisterNumber: 23004048
+
 */
 module Logicgates(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
